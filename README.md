@@ -1,2 +1,1 @@
-
-Bu proje Piton Technology Frontend Tasarım Design projesidir.
+Next.js Talwind CSS ile geliştirilen web site projesi.
